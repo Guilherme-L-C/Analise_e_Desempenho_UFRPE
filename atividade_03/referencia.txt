@@ -1,0 +1,11 @@
+buble sort: https://www.youtube.com/watch?v=KLvH6yi5YYU
+
+txt python : https://www.reddit.com/r/learnpython/comments/pf5i2s/i_dont_understand_how_to_read_a_text_document_in/
+https://hackernoon.com/how-to-read-text-file-in-python
+
+quicksort: 
+https://www.youtube.com/watch?v=nV_WE8SEuGE
+https://www.youtube.com/watch?v=7h1s2SojIRw
+https://www.youtube.com/watch?v=MZaf_9IZCrc
+https://www.geeksforgeeks.org/dsa/quick-sort-algorithm/
+https://www.youtube.com/watch?v=Vtckgz38QHs
